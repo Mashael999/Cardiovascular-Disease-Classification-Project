@@ -1,12 +1,14 @@
-# Cardiovascular Disease dataset
-## Data Overview
-Cardiovascular disease is a class of diseases that involve the heart or blood vessels. And are the leading cause of death worldwide by representing 32% of all global deaths, which is important to detect cardiovascular disease as early as possible so that management with counselling and medicines can begin.
+# Cardiovascular Disease 
 
-Through this project we want to build a model to predict the patient's condition based on many features related to the patient.
 
 <p align="center" width="100%">
-<img src="http://www.msif.org/wp-content/uploads/2018/09/Cardiovascular-for-website-900x0-c-default.png" width="700" style="display: block; margin: 0 auto"/>
+<img src="http://www.msif.org/wp-content/uploads/2018/09/Cardiovascular-for-website-900x0-c-default.png" />
 </p>
+
+## Data Overview
+Cardiovascular disease is a class of diseases that involve the heart or blood vessels. And are the leading cause of death worldwide by representing 32% of all global deaths, which is important to detect cardiovascular disease as early as possible so that management with counselling and medicines can begin.
+Through this project we want to build a model to predict the patient's condition based on many features related to the patient.
+
 
 ## Table of contents
 * [Data Description](#data-description)
@@ -41,7 +43,7 @@ Below is a description of the features:
 
 
 ## Questions
-1. Average age of people who are presence of Cardiovascular disease?
+1. Does the age has any impact on Cardiovascular disease?
 
 2. What is the sex most affected Cardiovascular disease?
 
@@ -83,3 +85,4 @@ from Kaggle website [here](https://www.kaggle.com/sulianova/cardiovascular-disea
 [@Mashael999](https://github.com/Mashael999)
 
 Project at SDAIA Academy
+
