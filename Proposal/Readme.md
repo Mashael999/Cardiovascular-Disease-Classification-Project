@@ -5,18 +5,13 @@
 <img src="http://www.msif.org/wp-content/uploads/2018/09/Cardiovascular-for-website-900x0-c-default.png" />
 </p>
 
-## Data Overview
+## Introduction
 Cardiovascular disease is a class of diseases that involve the heart or blood vessels. And are the leading cause of death worldwide by representing 32% of all global deaths, which is important to detect cardiovascular disease as early as possible so that management with counselling and medicines can begin.
-Through this project we want to build a model to predict the patient's condition based on many features related to the patient.
 
 
-## Table of contents
-* [Data Description](#data-description)
-* [Questions](#questions)
-* [Algorithms](#algorithms)
-* [Tools](#tools)
-* [Source](#source)
-* [Authors](#authors)
+## Purpose:
+The objective in this project is to build machine learning models to classify or identify patient's condition based on medical examination for the patient.
+
 
 ## Data Description
 The dataset consists of 13 features and 70,000 observations.
@@ -42,22 +37,12 @@ Below is a description of the features:
 
 
 
-## Questions
-1. Does the age has impact on Cardiovascular disease?
-
-2. What is the sex most affected Cardiovascular disease?
-
-3. Is the smoking a factor in infection with Cardiovascular disease?
-
-4. Is the weight a factor in infection with Cardiovascular disease?
-
 
 ## Algorithms
 - KNN
 - Logistic Regression
 - Decision Tree Classification
 - Random Forest Classification
-- SVM
 - Naive Bayes
 
 ## Tools
