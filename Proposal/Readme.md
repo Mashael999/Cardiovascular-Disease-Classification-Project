@@ -60,7 +60,7 @@ Zoom,
 PowerPoint.
     
 ## Source
-from Kaggle website [here](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
+From Kaggle website [here](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
 
 # Authors
 [@halaalanzi](https://github.com/halaalanzi)
