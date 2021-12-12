@@ -1,4 +1,4 @@
-# Classification Project 03: Cardiovascular-Disease
+# Classification Project: Cardiovascular-Disease
 Data science Project one of core element of T5 Boot camp from SDAIA Academy
 
 
