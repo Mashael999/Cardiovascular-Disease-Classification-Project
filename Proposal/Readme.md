@@ -58,7 +58,6 @@ sklearn.
 GitHub, 
 Jupyter,
 Zoom,
-Canva,
 PowerPoint.
     
 ## Source
