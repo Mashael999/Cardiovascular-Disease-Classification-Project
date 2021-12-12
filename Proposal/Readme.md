@@ -43,7 +43,7 @@ Below is a description of the features:
 
 
 ## Questions
-1. Does the age has any impact on Cardiovascular disease?
+1. Does the age has impact on Cardiovascular disease?
 
 2. What is the sex most affected Cardiovascular disease?
 
