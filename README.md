@@ -7,7 +7,7 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI.
 
 
 # About the repository:
-- [Project Proposal]()
+- [Project Proposal](https://github.com/Mashael999/Cardiovascular-Disease-Classification-Project/tree/main/Proposal)
 - [Project MVP]()
 - [Jupyter Notebooks]()
 - [Final Report]()
