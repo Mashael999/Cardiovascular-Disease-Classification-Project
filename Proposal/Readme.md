@@ -51,7 +51,6 @@ pandas,
 numpy, 
 matplotlib, 
 seaborn, 
-plotly, 
 sklearn.
 
 - Softwares: 
