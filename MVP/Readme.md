@@ -9,7 +9,7 @@ The goal of this project is to build machine learning models to classify or iden
 - Rename columns.
 - convert [age] from days to years
 - Remove outlire
-After cleaning the data set the remain rows are.
+After cleaning the data set the remain rows are 61296.
 
 ## Data Exploration:
 
