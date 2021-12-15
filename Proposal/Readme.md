@@ -10,7 +10,7 @@ Cardiovascular disease is a class of diseases that involve the heart or blood ve
 
 
 ## Purpose:
-The objective in this project is to build machine learning models to classify or identify patient's condition based on medical examination for the patient.
+The goal of this project is to build machine learning models to classify or identify patient's condition on Cardiovascular Disease based medical examination for the patient.
 
 
 ## Data Description
