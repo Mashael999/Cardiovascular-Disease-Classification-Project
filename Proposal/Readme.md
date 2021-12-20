@@ -63,9 +63,11 @@ PowerPoint.
 From Kaggle website [here](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
 
 # Authors
+[@Mashael999](https://github.com/Mashael999)
+
 [@halaalanzi](https://github.com/halaalanzi)
 
-[@Mashael999](https://github.com/Mashael999)
+
 
 Project at SDAIA Academy
 
