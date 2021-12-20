@@ -12,6 +12,7 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI.
 - [Project MVP](https://github.com/Mashael999/Cardiovascular-Disease-Classification-Project/tree/main/MVP)
 - [Jupyter Notebooks](https://github.com/Mashael999/Cardiovascular-Disease-Classification-Project/blob/main/Code/Cardiovascular_Disease_dataset%20(2).ipynb)
 - [Slides Presentation](https://github.com/Mashael999/Cardiovascular-Disease-Classification-Project/blob/main/Slides/Cardiovascular%20System%20Disease%20by%20Slidesgo%20(1).pdf)
+- [Report](https://github.com/Mashael999/Cardiovascular-Disease-Classification-Project/tree/main/Report)
 
 ### Contact Me
 For any questions please contact me <br/>
