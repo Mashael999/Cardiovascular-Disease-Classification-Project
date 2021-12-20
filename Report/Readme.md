@@ -5,7 +5,7 @@ Mashael  Alfehaid - hala alanazi
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
 
-##### Design::
+##### Design:
 The goal of this project is to build machine learning models to classify or identify patient's condition on Cardiovascular Disease based medical examination for the patient.
 
 
@@ -18,13 +18,13 @@ All of the dataset values were collected at the moment of medical examination, w
 - Exploratory Data Analysis was done to the dataset.
 - Building multple models and finding out the well-suited one for this specific dataset.
 
-Cleaning:
+#### Cleaning:
 - drop null values
 - drop duplicate values
 - Rename columns.
 - convert [age] from days to years
 
-Feature Engineering:
+#### Feature Engineering:
 we bulied multbl of features:
 - BMI measure of body fat based on height and weight and put it into category
 - Ratio between systolic blood pressure and diastolic blood pressure
@@ -32,8 +32,9 @@ we bulied multbl of features:
 - Put the age column into category
 - Put blood pressure  columns into category
 
-### Model Building: 
+#### Model Building: 
 Over 8 models were tried and played with to get the best model that goes hand in hand with the dataset. After performing simple train and validation on the  models one was chosen for further investigation. Models trained was:
+
 - Logstic regression (Baseline)
 - MLP Classifier
 - knn 
@@ -42,19 +43,18 @@ Over 8 models were tried and played with to get the best model that goes hand in
 - Random forest
 - XGB Classifier
 - Ensemble Methods (Max Voting, Average Voting, and Stacking Classifier)
-- 
 
-- The Best 3 Models:  XGB Classifier , Stacking Classifier and MLP Classifier
+
+The Best 3 Models:  XGB Classifier , Stacking Classifier and MLP Classifier
 
 </br>
 - Dealing with low accuracy by using featuers selection.
 </br>
 - Evaluating gridsearch for the best models
-### Tools:
+
+#### Tools:
 - Numpy 
 - Pandas 
 - Matplotlib 
-- Seaborn 
-- SqlAlchemy 
+- Seaborn  
 - Sklearn 
-- Pickle
