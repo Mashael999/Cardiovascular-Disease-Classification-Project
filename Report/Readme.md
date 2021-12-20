@@ -1,7 +1,7 @@
 # Cardiovascular Disease Classification
 
 
-Mashael  Alfehaid - hala alanazi
+Mashael  Alfehaid - Hala Alanazi
 
 __________
 
