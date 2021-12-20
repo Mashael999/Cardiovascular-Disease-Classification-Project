@@ -25,7 +25,7 @@ All of the dataset values were collected at the moment of medical examination, w
 - convert [age] from days to years
 
 #### Feature Engineering:
-we bulied multbl of features:
+Bulied multiple of features:
 - BMI measure of body fat based on height and weight and put it into category
 - Ratio between systolic blood pressure and diastolic blood pressure
 - Relationship of pressure with weight
