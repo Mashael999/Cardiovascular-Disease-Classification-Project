@@ -10,7 +10,7 @@ The goal of this project is to build machine learning models to classify or iden
 
 
 ### Data:
-The dataset [Cardiovascular_Disease] (https://www.kaggle.com/sulianova/cardiovascular-disease-dataset/code)
+The dataset [Cardiovascular_Disease](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset/code)
 All of the dataset values were collected at the moment of medical examination, which consists of 13 features and 70,000 observations.
 
  
