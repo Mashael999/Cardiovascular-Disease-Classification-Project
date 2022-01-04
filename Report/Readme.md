@@ -1,28 +1,28 @@
 # Cardiovascular Disease Classification
 
 
-Mashael  Alfehaid - Hala Alanazi
+Mashael Alfehaid - Hala Alanazi
 
 __________
 
-##### Design:
+### Design:
 The goal of this project is to build machine learning models to classify or identify patient's condition on Cardiovascular Disease based medical examination for the patient.
 
 
 ### Data:
-The dataset [Cardiovascular_Disease](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset/code)
-All of the dataset values were collected at the moment of medical examination, which consists of 13 features and 70,000 observations.
+The dataset [Cardiovascular Disease](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset/code)
+collected at the moment of medical examination, which consists of 13 features and 70,000 observations.
 
  
 ### Algorithms:
 - Exploratory Data Analysis was done to the dataset.
-- Building multple models and finding out the well-suited one for this specific dataset.
+- Building multiple models and finding out the well-suited one for this specific dataset.
 
 #### Cleaning:
 - drop null values
 - drop duplicate values
 - Rename columns.
-- convert [age] from days to years
+- convert 'age' from days to years
 
 #### Feature Engineering:
 Bulied multiple of features:
